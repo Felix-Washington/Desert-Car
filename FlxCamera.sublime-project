@@ -1,0 +1,25 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"name": "FlxCamera",
+			"path": "C:\\Users\\Angelo/FlxCamera"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "Flixel",
+			"path": "K:\\HaxeToolkit\\haxe\\lib\\flixel/4,0,1/"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "Flixel Addons",
+			"path": "K:\\HaxeToolkit\\haxe\\lib\\flixel-addons/2,0,0/"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "Haxe",
+			"path": "K:\\HaxeToolkit\\haxe\\std"
+		}
+	]
+}
